@@ -1,2 +1,4 @@
 # hello-world
-my first github project
+
+This is my first github project
+Im retired,live in Calfornia
